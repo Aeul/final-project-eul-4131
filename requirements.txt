@@ -12,3 +12,14 @@ requests==2.22.0
 urllib3==1.25.6
 Werkzeug==0.16.0
 WTForms==2.2.1
+flask_login
+flask_uploads
+flask_mail
+flask_moment
+flask_bootstrap
+flask_migrate
+flask_sqlalchemy
+hashlib
+app
+config
+
