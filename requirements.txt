@@ -19,7 +19,7 @@ flask_moment
 flask_bootstrap
 flask_migrate
 flask_sqlalchemy
-hashlib
-app
-config
+# hashlib
+# app
+# config
 
