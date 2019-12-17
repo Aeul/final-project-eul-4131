@@ -17,4 +17,4 @@ class Config(object):
     # flasktestemail120@gmail.com
     # Flaskfinal1!
 
-    HOST = 'http://localhost:5000'
+    HOST = 'https://final-project-eul-4131.herokuapp.com'
